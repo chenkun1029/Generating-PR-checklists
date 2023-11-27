@@ -7,9 +7,9 @@ import csv
 import pandas as pd
 
 header = {
-    'token': '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',
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36',
-    'Cookie': '_ga=GA1.2.1604869179.1603094657; _device_id=50d772b98986ef33e94f97011945d14a; _octo=GH1.1.624612414.1634720273; tz=Asia%2FShanghai; user_session=eK3l0t_BYcPbRzEKfpLoAQEuu0SKOMVxJrXCFHXfLatmK11d; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22light%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=chenkun1029; has_recent_activity=1; _gh_sess=JbI1HiGnVjMeh1k6lI4S%2F2hEVKJVdJGaloP3D72bI9yfp3ExBQR88u3e%2BUdFGcwQvx0Pv%2F%2B6heCEpfqIq2dBIO02O30hmlJDZ7Khxr5j7pQy%2FJtlSzErVGYha9fBnb0UoGQYDPNSpDNPK27ymT1ouATHzV7t8nxFdyH5a4ZUI8krT8ZdzTNo02MIvFwVEhlF6hflZTfRaAl%2FaB1kkYavs1zPhMMDX2bbGD41NzL4rYOOd94omu40uGZIlYxyhsUmoxiTcbEEUrZ8qro1aJE1ZN3uL1N4aerq5RzhFA%3D%3D--aKkeQTG8DbZYktXQ--lNvhj1et4zKhmS1FndfDEA%3D%3D'
+    'token': '***',
+    'User-Agent': '***',
+    'Cookie': '***'
 }
 
 
